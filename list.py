@@ -14,12 +14,13 @@ while choice != '0':
         elif choice == "4":
             emplist.append("Mouse")
         elif choice == "5":
-            emplist.append("MOuse mat")
+            emplist.append("Mouse mat")
         elif choice == "6":
             emplist.append("HDMI cable")
 
     else:
         print("please add options from below")
+
         print("1: Computer \n2: Monitor \n3: keyboard \n4: Mouse \n"
               "5: Mouse mat \n6 :HDMI cable \n0: Exit ")
 
