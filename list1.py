@@ -1,6 +1,6 @@
 Choices = ["mouse",
            "computer",
-           "moniotr",
+           "monitor",
            "mousepad",
            "HDMI"
            ]
